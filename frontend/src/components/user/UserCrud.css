@@ -1,0 +1,13 @@
+@media(max-width: 576px) {
+    .user-edit{
+        display: flex;
+        flex-direction: row;
+    }
+
+    .user-edit > button{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 20px;
+    }
+}
